@@ -1,0 +1,13 @@
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalculatorApi.exe
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalculatorApi.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalculatorApi.deps.json
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalculatorApi.runtimeconfig.json
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalculatorApi.pdb
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalulatorCore.dll
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalculatorApi\obj\Release\netcoreapp3.1\PubTmp\Out\LoanCalulatorCore.pdb
