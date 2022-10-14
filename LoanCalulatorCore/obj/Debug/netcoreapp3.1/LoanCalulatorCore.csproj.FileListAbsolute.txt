@@ -6,3 +6,4 @@ D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalulatorCore\obj\Debug\netc
 D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalulatorCore\obj\Debug\netcoreapp3.1\LoanCalulatorCore.csproj.CoreCompileInputs.cache
 D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalulatorCore\obj\Debug\netcoreapp3.1\LoanCalulatorCore.dll
 D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalulatorCore\obj\Debug\netcoreapp3.1\LoanCalulatorCore.pdb
+D:\Programming\LoanCalculator\LoanCalculatorApp\LoanCalulatorCore\obj\Debug\netcoreapp3.1\LoanCalulatorCore.csproj.AssemblyReference.cache
